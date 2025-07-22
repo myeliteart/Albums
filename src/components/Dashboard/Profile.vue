@@ -63,7 +63,7 @@
 </template>
 
 <script setup>
-    import { db, auth } from '@/firebase';
+    // import { db, auth } from '@/firebase';
     
     import { ref } from 'vue';
     import { Field, Form } from 'vee-validate';
