@@ -1,7 +1,7 @@
 <template>
   <div class="mx-auto px-6 md:px-24 py-8">
       <h2 class="text-2xl lg:text-4xl font-medium mb-4">About us</h2>
-      <div class="flex flex-col lg:flex-row gap-8 justify-between">
+      <div class="flex flex-col lg:flex-row gap-6 justify-between">
         <div class="flex-1">
           <img :src="image" class="rounded" alt="">
         </div>
